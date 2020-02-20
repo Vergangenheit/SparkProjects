@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33a82a3d-edc1-4236-979e-676bbff05788" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XNVShlKWigpMQ5WR95K7Cgu16v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SparkProj" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MultipleSparkSessions">
+    <configuration name="CreatingDFWithCSVUsingSS" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="dfbasics.CreatingDFWithCSVUsingSS" />
+      <module name="com.maven_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dfbasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreatingDFWithCSVusingSC" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="dfbasics.CreatingDFWithCSVusingSC" />
+      <module name="com.maven_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dfbasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DFWithSC" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="dfbasics.DFWithSC" />
+      <module name="com.maven_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dfbasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DFWithSS" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="dfbasics.DFWithSS" />
+      <module name="com.maven_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dfbasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleSparkContexts" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="dfbasics.MultipleSparkContexts" />
+      <module name="com.maven_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dfbasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleSparkSessions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="dfbasics.MultipleSparkSessions" />
+      <module name="com.maven_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dfbasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MultipleSparkSessions" />
+        <item itemvalue="Application.MultipleSparkContexts" />
+        <item itemvalue="Application.CreatingDFWithCSVUsingSS" />
+        <item itemvalue="Application.CreatingDFWithCSVusingSC" />
+        <item itemvalue="Application.DFWithSC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33a82a3d-edc1-4236-979e-676bbff05788" name="Default Changelist" comment="" />
+      <created>1580886540413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580886540413</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1155" y="-912" key="#Project_Structure" timestamp="1580888002547">
+      <screen x="603" y="-1089" width="1920" height="1040" />
+    </state>
+    <state x="1155" y="-912" key="#Project_Structure/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1580888002547" />
+    <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582206883050">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@0.0.1366.728" timestamp="1582206883050" />
+    <state x="1321" y="-767" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581580897395">
+      <screen x="603" y="-1089" width="1920" height="1040" />
+    </state>
+    <state x="1321" y="-767" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1581580897395" />
+    <state x="493" y="104" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1582207636303">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="493" y="104" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@0.0.1366.728" timestamp="1582207636303" />
+    <state x="1296" y="-881" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1580887427435" />
+    <state x="1292" y="-691" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1580887845132">
+      <screen x="603" y="-1089" width="1920" height="1040" />
+    </state>
+    <state x="1292" y="-691" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1580887845132" />
+    <state x="1343" y="-816" key="FileChooserDialogImpl" timestamp="1580888908126">
+      <screen x="603" y="-1089" width="1920" height="1040" />
+    </state>
+    <state x="1343" y="-816" key="FileChooserDialogImpl/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1580888908126" />
+    <state width="1323" height="400" key="GridCell.Tab.0.bottom" timestamp="1582207115299">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="400" key="GridCell.Tab.0.bottom/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@0.0.1366.728" timestamp="1582207115299" />
+    <state width="1877" height="218" key="GridCell.Tab.0.bottom/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1582190323815" />
+    <state width="1323" height="400" key="GridCell.Tab.0.center" timestamp="1582207115299">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="400" key="GridCell.Tab.0.center/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@0.0.1366.728" timestamp="1582207115299" />
+    <state width="1877" height="218" key="GridCell.Tab.0.center/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1582190323815" />
+    <state width="1323" height="400" key="GridCell.Tab.0.left" timestamp="1582207115299">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="400" key="GridCell.Tab.0.left/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@0.0.1366.728" timestamp="1582207115299" />
+    <state width="1877" height="218" key="GridCell.Tab.0.left/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1582190323815" />
+    <state width="1323" height="400" key="GridCell.Tab.0.right" timestamp="1582207115299">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="400" key="GridCell.Tab.0.right/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@0.0.1366.728" timestamp="1582207115299" />
+    <state width="1877" height="218" key="GridCell.Tab.0.right/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1582190323815" />
+    <state x="1064" y="-928" key="SettingsEditor" timestamp="1580887808084">
+      <screen x="603" y="-1089" width="1920" height="1040" />
+    </state>
+    <state x="1064" y="-928" key="SettingsEditor/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1580887808084" />
+    <state x="1258" y="-747" key="com.intellij.ide.util.TipDialog" timestamp="1582205219439">
+      <screen x="603" y="-1089" width="1920" height="1040" />
+    </state>
+    <state x="1258" y="-747" key="com.intellij.ide.util.TipDialog/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@0.0.1366.728" timestamp="1582205219439" />
+    <state x="1258" y="-747" key="com.intellij.ide.util.TipDialog/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1582187450550" />
+    <state x="1200" y="-868" key="new project wizard" timestamp="1580888944838">
+      <screen x="603" y="-1089" width="1920" height="1040" />
+    </state>
+    <state x="1200" y="-868" key="new project wizard/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1580888944838" />
+    <state x="1284" y="-658" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580888850527">
+      <screen x="603" y="-1089" width="1920" height="1040" />
+    </state>
+    <state x="1284" y="-658" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1580888850527" />
+  </component>
+</project>

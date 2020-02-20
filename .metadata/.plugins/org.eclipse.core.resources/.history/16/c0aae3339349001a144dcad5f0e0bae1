@@ -1,0 +1,26 @@
+package RDDBasics
+//
+import org.apache.spark.SparkConf
+import org.apache.spark.SparkContext
+import org.apache.spark.rdd.RDD
+import org.apache.spark.sql.SparkSession
+
+//
+object CreatingSparkContext {
+ def main(args: Array[String]): Unit = {
+   
+   val spark:SparkSession = SparkSession.builder().master("local[1]").appName("SparkByExamples").getOrCreate()
+   val rdd:RDD[Int] = spark.sparkContext.parallelize(List(1,2,3,4,5))
+   val rddCollect:Array[Int] = rdd.collect()
+   println("Number of partition: " + rdd.getNumPartitions)
+   println("Action: RDD converted to Array[Int] : ")
+   rddCollect.foreach(println)
+
+    
+  }
+}
+
+  
+
+
+ 
