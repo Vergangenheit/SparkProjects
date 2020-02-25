@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33a82a3d-edc1-4236-979e-676bbff05788" name="Default Changelist" comment="" />
+    <list default="true" id="33a82a3d-edc1-4236-979e-676bbff05788" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,9 @@
         <option value="Scala Worksheet" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -35,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -46,7 +53,7 @@
       <recent name="D:\SparkProj" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MultipleSparkSessions">
+  <component name="RunManager" selected="Application.ImposingOwnSchema">
     <configuration name="CreatingDFWithCSVUsingSS" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="dfbasics.CreatingDFWithCSVUsingSS" />
       <module name="com.maven_project" />
@@ -60,34 +67,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreatingDFWithCSVusingSC" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="dfbasics.CreatingDFWithCSVusingSC" />
-      <module name="com.maven_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dfbasics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DFWithSC" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="dfbasics.DFWithSC" />
-      <module name="com.maven_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dfbasics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DFWithSS" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="dfbasics.DFWithSS" />
+      <module name="com.maven_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dfbasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileFormats" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="dfbasics.FileFormats" />
+      <module name="com.maven_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dfbasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImposingOwnSchema" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="dfbasics.ImposingOwnSchema" />
       <module name="com.maven_project" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImposingOwnSchema" />
+        <item itemvalue="Application.FileFormats" />
         <item itemvalue="Application.MultipleSparkSessions" />
         <item itemvalue="Application.MultipleSparkContexts" />
         <item itemvalue="Application.CreatingDFWithCSVUsingSS" />
-        <item itemvalue="Application.CreatingDFWithCSVusingSC" />
-        <item itemvalue="Application.DFWithSC" />
       </list>
     </recent_temporary>
   </component>
@@ -186,35 +193,35 @@
       <screen x="603" y="-1089" width="1920" height="1040" />
     </state>
     <state x="1343" y="-816" key="FileChooserDialogImpl/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1580888908126" />
-    <state width="1323" height="400" key="GridCell.Tab.0.bottom" timestamp="1582207115299">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="612" key="GridCell.Tab.0.bottom" timestamp="1582623195255">
+      <screen x="603" y="-1089" width="1920" height="1040" />
     </state>
-    <state width="1323" height="400" key="GridCell.Tab.0.bottom/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@0.0.1366.728" timestamp="1582207115299" />
-    <state width="1877" height="218" key="GridCell.Tab.0.bottom/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1582190323815" />
-    <state width="1323" height="400" key="GridCell.Tab.0.center" timestamp="1582207115299">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="400" key="GridCell.Tab.0.bottom/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@0.0.1366.728" timestamp="1582212846872" />
+    <state width="1877" height="612" key="GridCell.Tab.0.bottom/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1582623195255" />
+    <state width="1877" height="612" key="GridCell.Tab.0.center" timestamp="1582623195255">
+      <screen x="603" y="-1089" width="1920" height="1040" />
     </state>
-    <state width="1323" height="400" key="GridCell.Tab.0.center/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@0.0.1366.728" timestamp="1582207115299" />
-    <state width="1877" height="218" key="GridCell.Tab.0.center/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1582190323815" />
-    <state width="1323" height="400" key="GridCell.Tab.0.left" timestamp="1582207115299">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="400" key="GridCell.Tab.0.center/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@0.0.1366.728" timestamp="1582212846871" />
+    <state width="1877" height="612" key="GridCell.Tab.0.center/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1582623195255" />
+    <state width="1877" height="612" key="GridCell.Tab.0.left" timestamp="1582623195255">
+      <screen x="603" y="-1089" width="1920" height="1040" />
     </state>
-    <state width="1323" height="400" key="GridCell.Tab.0.left/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@0.0.1366.728" timestamp="1582207115299" />
-    <state width="1877" height="218" key="GridCell.Tab.0.left/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1582190323815" />
-    <state width="1323" height="400" key="GridCell.Tab.0.right" timestamp="1582207115299">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="400" key="GridCell.Tab.0.left/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@0.0.1366.728" timestamp="1582212846871" />
+    <state width="1877" height="612" key="GridCell.Tab.0.left/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1582623195255" />
+    <state width="1877" height="612" key="GridCell.Tab.0.right" timestamp="1582623195255">
+      <screen x="603" y="-1089" width="1920" height="1040" />
     </state>
-    <state width="1323" height="400" key="GridCell.Tab.0.right/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@0.0.1366.728" timestamp="1582207115299" />
-    <state width="1877" height="218" key="GridCell.Tab.0.right/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1582190323815" />
+    <state width="1323" height="400" key="GridCell.Tab.0.right/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@0.0.1366.728" timestamp="1582212846871" />
+    <state width="1877" height="612" key="GridCell.Tab.0.right/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1582623195255" />
     <state x="1064" y="-928" key="SettingsEditor" timestamp="1580887808084">
       <screen x="603" y="-1089" width="1920" height="1040" />
     </state>
     <state x="1064" y="-928" key="SettingsEditor/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1580887808084" />
-    <state x="1258" y="-747" key="com.intellij.ide.util.TipDialog" timestamp="1582205219439">
+    <state x="1258" y="-747" key="com.intellij.ide.util.TipDialog" timestamp="1582615963986">
       <screen x="603" y="-1089" width="1920" height="1040" />
     </state>
-    <state x="1258" y="-747" key="com.intellij.ide.util.TipDialog/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@0.0.1366.728" timestamp="1582205219439" />
-    <state x="1258" y="-747" key="com.intellij.ide.util.TipDialog/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1582187450550" />
+    <state x="1258" y="-747" key="com.intellij.ide.util.TipDialog/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@0.0.1366.728" timestamp="1582556018425" />
+    <state x="1258" y="-747" key="com.intellij.ide.util.TipDialog/0.0.1366.728/603.-1089.1920.1040/-1317.-1080.1920.1040@603.-1089.1920.1040" timestamp="1582615963986" />
     <state x="1200" y="-868" key="new project wizard" timestamp="1580888944838">
       <screen x="603" y="-1089" width="1920" height="1040" />
     </state>
